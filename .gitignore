@@ -1,0 +1,17 @@
+# Obsidian workspace local
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
