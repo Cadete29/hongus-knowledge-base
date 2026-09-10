@@ -31,9 +31,8 @@ Pagos, suscripciones, asesoría con IA y matching avanzado son módulos candidat
 
 ## Alternativa inicial para evaluar
 
-Una aplicación backend modular con una unidad de despliegue es una candidata para el piloto, frente a la propuesta original de microservicios. Resolver esta elección mediante una decisión documentada al conocer equipo, carga y operación.
+La estructura del backend se definirá al conocer el equipo, la capacidad y el alcance. No hay arquitectura aprobada.
 
-El Word menciona React, Vite, Node.js, Express y PostgreSQL, además de múltiples proveedores y herramientas de datos. Se conservan como candidatos, no como selección técnica. Comparar documentación vigente, mantenimiento, costes y ajuste al equipo antes de aprobarlos.
 
 Ver [[Modelo de dominio]], [[Decisiones]] y [[Operacion y entornos]].
 

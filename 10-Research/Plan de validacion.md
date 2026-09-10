@@ -7,7 +7,7 @@ Objetivo: averiguar si [[Problema]] describe una necesidad real y si la solució
 
 ## Conversación inicial
 
-Incluir estudiantes, recién egresados y profesionales con y sin experiencia. Añadir representantes de empresas públicas y privadas, instituciones educativas y mentores. Pedir que cuenten la última vez que enfrentaron la situación: qué intentaron, qué herramientas usaron, qué falló y qué consecuencia tuvo. Evitar presentar Hongus antes de entender su experiencia.
+Incluir estudiantes, recién egresados y profesionales sin experiencia. Añadir representantes de empresas participantes, instituciones educativas y mentores. Pedir que cuenten la última vez que enfrentaron la situación: qué intentaron, qué herramientas usaron, qué falló y qué consecuencia tuvo. Evitar presentar Hongus antes de entender su experiencia.
 
 Preguntar por conducta pasada y ejemplos. Una opinión favorable no confirma uso futuro ni disposición a pagar.
 

@@ -1,27 +1,10 @@
 # Brief fundador
+Información vigente al 10 de septiembre de 2026.
 
-Actualizado: 2026-09-07.
+Hongus es una plataforma de empleabilidad verde en preparación para todo México y personas de 18 años en adelante. Su público principal son estudiantes de preparatoria y superior, egresados y profesionales sin experiencia. Profesionales experimentados participarán como mentores y guías.
 
-## Confirmado por el fundador
+Nombre y lema aprobados: **Hongus — Construye experiencia. Cultiva futuro.** Identidad gráfica aprobada en [[Identidad visual de Hongus]].
 
-Hongus será una plataforma de **empleabilidad verde**. Participarán empresas públicas y privadas, instituciones educativas, mentores para sesiones one to one y talento. La propuesta cambiará mientras se construye y consolida. Se diseñará primero para web y se contempla móvil a futuro.
+Planes aceptados en [[Planes y beneficios]]: Gratis, Estudiante $50 MXN/mes e Inicio Profesional $200 MXN/mes. Repartos para MICE-LO en [[Modelo de negocio]]. Reglas de [[Mentoria one to one]] y [[Contactos y Hongus Verify]].
 
-Este vault de Obsidian es el espacio de trabajo previo al código. El documento [[Propuesta original y evolucion]] es una fuente de ideas; no equivale a una especificación aprobada.
-
-## Pendiente de decidir
-
-- Tamaño y composición del piloto entre los cuatro segmentos confirmados.
-- País, región, idioma y primeras áreas de empleabilidad verde.
-- Empresas, instituciones y mentores a los que ya tenemos acceso.
-- Resultado inicial: descubrimiento, postulación, entrevista o contratación.
-- Modalidad de postulación dentro de Hongus o en sitios externos.
-- Significado del nombre y preferencias visuales.
-- Equipo, presupuesto, plazos y modelo de sostenimiento.
-- Si se atenderá a menores de edad.
-
-Síntesis actual en [[Vision General]]; propuesta de primer recorrido en [[MVP]].
-
-## Público confirmado
-
-Estudiantes, recién egresados, profesionales sin experiencia y profesionales con experiencia. Deben compartir una base de producto con necesidades diferenciadas; ver [[Talento]].
-
+No hay organizaciones ni mentores confirmados. Primero identidad; después arquitectura, equipos, desarrollo, tickets y metodología. Stack, presupuesto, fechas y alcance de lanzamiento pendientes.

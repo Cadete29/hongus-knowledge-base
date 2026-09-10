@@ -1,32 +1,13 @@
 # Modelo de negocio
+Estado: precios y repartos confirmados; viabilidad pendiente.
 
-Estado: hipótesis derivadas del documento original.
+Ver [[Planes y beneficios]] para el reparto aprobado. Estudiante: $50 MXN/mes. Inicio Profesional: $200 MXN/mes. Gratis: 3 postulaciones mensuales.
 
-## Dos relaciones comerciales posibles
+## Hongus y MICE LO
+Organizaciones hermanas separadas. 20% de ingresos propios de Hongus, incluidas suscripciones, para MICE-LO; 80% para reinversión y nómina. Reparto nominal por plan: $10/$40 y $40/$160 respectivamente, antes de definir comisiones y tratamiento fiscal.
 
-**B2C:** talento paga por preparación y acompañamiento. Validar disposición a pagar y si restringir el acceso a oportunidades dificulta la misión del producto.
+Las mentorías extra tienen reparto exclusivo: 75% mentor y 25% MICE-LO para reforestación. No se agrega otro 20% a este reparto. El mentor fija el precio. La difusión de aportaciones o actividades realizadas se contempla en páginas oficiales de Hongus y MICE-LO; no hay aportaciones ejecutadas documentadas aquí.
 
-**B2B:** empresas o instituciones pagan por publicación, vinculación, reclutamiento o programas para su comunidad. Definir quién compra, qué resultado recibe y qué acceso a datos es apropiado.
+Pendientes: base de cálculo, transferencias, periodicidad, comisiones, impuestos, comprobación del destino y publicación de resultados. No hay acuerdos externos confirmados. Suscripciones para organizaciones por definir.
 
-## Propuesta histórica de planes
-
-| Plan | Importe del Word | Elementos destacados |
-| --- | --- | --- |
-| Estudiante | $20, IVA incluido | Acceso parcial, tres postulaciones y ayudas limitadas. |
-| Básico | $100, IVA incluido | Convocatorias y postulaciones ilimitadas; preparación grupal. |
-| Premium | $200, IVA incluido | Dos sesiones one to one al mes y acompañamiento adicional. |
-
-La moneda no está especificada. Son importes de referencia, no precios aprobados. No se ha validado el tratamiento fiscal.
-
-## Validación económica
-
-Para cada plan estimar ingreso neto, comisiones, tiempo de mentor, soporte, servicios y uso esperado. Definir duración y remuneración por sesión antes de evaluar si dos sesiones mensuales son sostenibles.
-
-Revisar la “prioridad en postulaciones” del Word: aclarar si se refiere a atención de Hongus o a posición frente a empleadores. No prometer ventaja de selección por pagar.
-
-## Arranque del ecosistema
-
-Identificar empresas con oportunidades reales, una comunidad de talento y mentores con disponibilidad. Las instituciones educativas pueden aportar acceso al piloto. No suponer que los cuatro grupos se incorporarán de forma espontánea.
-
-Ver [[Plan de validacion]], [[Mentoria one to one]] y [[Preguntas legales]].
-
+## Viabilidad

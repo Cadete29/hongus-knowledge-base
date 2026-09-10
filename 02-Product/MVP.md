@@ -8,7 +8,7 @@ Un catálogo enfocado de oportunidades verdes, acompañado de preparación y men
 
 ## Primer recorrido web propuesto
 
-1. Una empresa pública o privada registra una oportunidad con requisitos, cierre y justificación de su vínculo verde.
+1. Una organización participante registra una oportunidad con requisitos, cierre y justificación de su vínculo verde.
 2. Hongus revisa la organización y la oportunidad antes de publicarla.
 3. El talento explora oportunidades y entiende sus condiciones.
 4. Crea un perfil mínimo y prepara una postulación.
@@ -40,7 +40,5 @@ Comprensión de oportunidades, candidaturas completadas, sesiones realizadas y a
 
 Ver [[Requisitos del producto]], [[Mentoria one to one]] y [[Objetivos]].
 
-## Público confirmado
-
-Los cuatro segmentos de [[Talento]] forman parte del público: estudiantes, recién egresados y profesionales con y sin experiencia. Proponer un recorrido común con filtros de experiencia, formación y objetivo. Validar el prototipo con cada grupo; el foco operativo del piloto puede acotarse por región y familias de oportunidades sin excluir etapas profesionales.
-
+## Público
+Ver [[Talento]] para el público vigente. El alcance técnico de lanzamiento se definirá después de la identidad.

@@ -4,7 +4,7 @@ Estado: dirección confirmada; métricas propuestas y metas pendientes.
 
 ## Resultado de producto
 
-Ayudar al talento a avanzar hacia oportunidades de empleabilidad verde mediante información clara, preparación y acompañamiento. Medir por separado a estudiantes, recién egresados y profesionales con y sin experiencia, sin asumir categorías excluyentes.
+Ayudar al talento a avanzar hacia oportunidades de empleabilidad verde mediante información clara, preparación y acompañamiento. Medir por separado a estudiantes, recién egresados y profesionales sin experiencia, sin asumir categorías excluyentes.
 
 ## Indicadores candidatos
 
@@ -18,7 +18,8 @@ Ayudar al talento a avanzar hacia oportunidades de empleabilidad verde mediante 
 
 Fijar periodo, tratamiento de duplicados, responsable y metas antes del piloto. Para postulaciones externas, usar evidencia o autorreporte identificado; no inferir envío a partir de un clic.
 
-El Word propone 10,000 usuarios activos y 100 instituciones a tres años. Son aspiraciones históricas sin línea base ni fecha inicial confirmada. No equivalen a compromisos actuales.
 
 Ver [[Plan de validacion]] y [[Datos e inteligencia artificial]].
 
+
+Aspiración del primer año: promover conciencia ambiental en al menos 10,000 usuarios y vincular organizaciones. Método de medición y meta de contrataciones pendientes.

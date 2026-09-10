@@ -1,21 +1,14 @@
-# Decisiones
+# Decisiones vigentes
+Actualización al 10 de septiembre de 2026. Fuente: decisiones del fundador en conversación.
 
-Registrar decisiones relevantes de producto, marca y tecnología. No hay decisiones de stack aprobadas.
+| Área | Decisión vigente |
+| --- | --- |
+| Marca | Hongus y lema Construye experiencia. Cultiva futuro. aprobados. |
+| Visual | Logotipo, paleta, tipografía y aplicaciones de [[Identidad visual de Hongus]] aprobados. |
+| Público | México, desde 18 años; estudiantes, egresados y profesionales sin experiencia. Mentores experimentados como acompañantes. |
+| Planes | [[Planes y beneficios]]: $50 y $200 MXN mensuales; 1 y 4 mentorías. Gratis: 3 postulaciones/mes. |
+| Aportaciones | [[Modelo de negocio]]: 20% de ingresos propios a MICE-LO; extras con reparto exclusivo 75% mentor y 25% MICE-LO. |
+| Confianza | [[Contactos y Hongus Verify]]: canal de asuntos y logros confirmados por responsables. |
+| Organización del trabajo | Identidad, arquitectura, equipos, desarrollo, tickets y metodología. |
 
-| ID | Decisión | Estado | Motivo o fuente |
-| --- | --- | --- | --- |
-| D-001 | Usar este vault para construir identidad y arquitectura antes de programar. | Confirmada | Instrucción del fundador del 2026-09-07. |
-
-Crear una nota con [[Plantilla de decision]] para cada decisión que merezca contexto. Estados: propuesta, aceptada, rechazada, reemplazada. Al reemplazar una decisión, conservar la anterior y enlazar su sucesora.
-
-## Dirección confirmada el 2026-09-07
-
-| ID | Decisión | Estado | Fuente |
-| --- | --- | --- | --- |
-| D-002 | Hongus se enfoca en empleabilidad verde. | Confirmada | Fundador en conversación. |
-| D-003 | Participan empresas públicas y privadas, instituciones educativas, talento y mentores one to one. | Confirmada | Fundador en conversación. |
-| D-004 | Web primero y móvil a futuro. | Confirmada | Fundador en conversación. |
-| D-005 | La propuesta evoluciona durante el diseño. | Confirmada | Fundador en conversación. |
-| D-006 | Atender estudiantes, recién egresados y profesionales con y sin experiencia. | Confirmada | Respuesta del fundador sobre el público. |
-
-El recorrido MVP, módulos, precios, proveedores y reglas propuestos todavía no están aceptados. Fuente histórica: [[Propuesta original y evolucion]].
+La arquitectura, stack y alcance técnico del lanzamiento no están aprobados. La base de conocimiento conserva la versión vigente a solicitud del fundador.

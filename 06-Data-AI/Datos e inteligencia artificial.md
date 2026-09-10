@@ -1,6 +1,6 @@
 # Datos e inteligencia artificial
 
-Estado: capacidades propuestas en el Word; implementación no aprobada.
+Estado: CV con IA definido en [[Planes y beneficios]]; capacidades adicionales y arquitectura pendientes.
 
 | Capacidad | Prueba necesaria antes de incorporar |
 | --- | --- |
@@ -20,7 +20,6 @@ Definir qué datos se enviarían a terceros, para qué, con qué permisos y dura
 
 Distinguir oportunidad consultada, candidatura enviada, sesión realizada, entrevista reportada y contratación confirmada. Registrar origen y fecha de cada resultado. Un evento de navegación no demuestra impacto laboral ni ambiental.
 
-Kafka, Spark y herramientas de búsqueda del documento son candidatos históricos. No hay volumen medido que justifique incorporarlos ahora. Los proveedores y modelos se compararán con documentación vigente cuando exista un caso aprobado.
 
-Ver [[Objetivos]] y [[Propuesta original y evolucion]].
+Ver [[Objetivos]] y [[Identidad de Hongus]].
 

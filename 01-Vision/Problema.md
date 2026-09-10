@@ -13,7 +13,7 @@ La propuesta describe oportunidades dispersas, dificultades para postularse, fal
 | Institución educativa | Conectar estudiantes o egresados con oportunidades. | Proceso de vinculación y seguimiento actual. |
 | Mentor | Orientar con contexto, objetivos y límites claros. | Cómo prepara y evalúa una sesión individual. |
 
-No está validada la afirmación del Word de que otras plataformas solo publican oportunidades sin acompañamiento. Investigar alternativas antes de usarla en el posicionamiento.
+Validar alternativas reales antes de afirmar diferencias competitivas.
 
 Prioridad: elegir etapa profesional, territorio y familias de oportunidades del piloto. Ver [[Plan de validacion]] y [[Criterios de empleabilidad verde]].
 

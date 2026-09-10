@@ -1,27 +1,10 @@
 # Mentoria one to one
+Estado: reglas comerciales confirmadas, operación parcial por definir.
 
-Estado: participación confirmada; operación propuesta.
+Una sesión debe ayudar a avanzar en un objetivo profesional concreto. Estudiante incluye 1 sesión individual mensual e Inicio Profesional 4. La duración depende del mentor. Las sesiones caducan al terminar el mes de suscripción; no se acumulan.
 
-## Resultado buscado
+Mentores voluntarios en sesiones incluidas. Sesiones extra a precio del mentor: 75% para él y 25% para MICE-LO, destinado a reforestación. Ver [[Modelo de negocio]].
 
-Que una persona termine una sesión con orientación aplicable a un objetivo: revisar su perfil, preparar una candidatura o practicar una entrevista. El catálogo de temas y la especialización verde de los mentores están por acordar.
+Recorrido propuesto: objetivo → disponibilidad y duración → reserva → sesión → confirmación de culminación y siguiente paso. Reconocimiento sujeto a validación del responsable, no a reservar o pagar.
 
-## Recorrido
-
-Talento indica objetivo y disponibilidad → equipo o mentor acepta → ambas partes confirman horario y zona horaria → se realiza la sesión → se registra cierre y siguiente paso.
-
-Estados propuestos: solicitada, confirmada, realizada, cancelada, no asistió. Reprogramar debe conservar el cambio y confirmar el nuevo horario.
-
-## Reglas por decidir
-
-- Criterios de incorporación y especialidades de mentores.
-- Duración, capacidad disponible y remuneración.
-- Cancelación, reprogramación y ausencia.
-- Datos compartidos antes de la sesión.
-- Visibilidad de acuerdos y notas; no compartir notas privadas con empresas por defecto.
-- Procedimiento ante un reporte o desacuerdo.
-
-El piloto puede coordinarse manualmente. No implica construir agenda integrada, videollamadas ni grabación. La propuesta original vincula mentorías a un plan premium; esa relación comercial no está aprobada.
-
-Ver [[Modelo de negocio]] y [[Seguridad y confianza]].
-
+Pendientes: admisión de mentores, capacidad, cancelación, reprogramación, inasistencia, privacidad, reclamaciones y forma de sesión. No se ha aprobado integración específica de videollamadas.

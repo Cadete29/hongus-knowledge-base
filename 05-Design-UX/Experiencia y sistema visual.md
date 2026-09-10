@@ -3,7 +3,7 @@ estado: propuesta
 ---
 # Experiencia y sistema visual
 
-La dirección visual debe expresar [[Identidad de Hongus]] y facilitar el resultado de [[MVP]]. Todavía no hay pantallas o estética aprobadas.
+La dirección visual debe expresar [[Identidad de Hongus]] y facilitar el resultado de [[MVP]]. La identidad gráfica v1 aprobada está en [[Identidad visual de Hongus]]; las pantallas siguen pendientes.
 
 ## Diseñar primero el recorrido
 
