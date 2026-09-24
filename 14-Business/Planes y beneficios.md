@@ -19,3 +19,8 @@ Condición de estudiante mediante constancia o credencial vigente. Revisión per
 Duración de mentorías fijada por el mentor; mostrarla antes de reservar. Las sesiones vencen al finalizar el mes de suscripción y no se acumulan. Ver [[Mentoria one to one]].
 
 Pendientes: impuestos, cobros, renovaciones, cancelación, reembolsos, capacidad de mentores y costos de IA. No se ha validado viabilidad económica. Los planes de organizaciones no están definidos.
+
+
+## Estado técnico · 24 de septiembre de 2026
+
+Los códigos `free`, `student` y `professional`, las órdenes y los periodos de suscripción están representados en la base de datos y en las pantallas. La activación de pago disponible actualmente es una simulación de desarrollo; no debe habilitarse como cobro público. Para estudiantes, la intención del plan se conserva, pero el cobro debe permanecer bloqueado hasta aprobar la acreditación. La integración real se sigue en HON-6 y HON-7.

@@ -1,0 +1,25 @@
+.notice {
+  position: fixed;
+  z-index: 30;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%);
+  width: min(480px, calc(100vw - 32px));
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  border-radius: 16px;
+  background: var(--white);
+  color: var(--ink);
+  box-shadow: 0 12px 38px rgba(16, 42, 34, 0.25);
+  font-size: 14px;
+  line-height: 1.4;
+}
+.notice button {
+  margin-left: auto;
+  border: 0;
+  background: transparent;
+  font-size: 24px;
+  color: var(--forest);
+}

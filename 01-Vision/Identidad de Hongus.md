@@ -6,7 +6,7 @@ fuente: decisiones del fundador en conversacion
 # Identidad de Hongus
 
 ## Esencia
-Hongus es una plataforma de empleabilidad verde en desarrollo para todo México. Ayuda a estudiantes mayores de edad, egresados y profesionales sin experiencia a construir y demostrar capacidades mediante oportunidades, proyectos, acompañamiento y logros verificables.
+Hongus es una plataforma de oportunidades, formación y desarrollo profesional en desarrollo para todo México, con enfoque en empleabilidad verde y compromiso ambiental. Ayuda a estudiantes mayores de edad, egresados y profesionales sin experiencia a construir y demostrar capacidades mediante oportunidades, proyectos, acompañamiento y logros verificables.
 
 Nace de la dificultad del fundador para conseguir empleo sin experiencia y de su convicción de que los estudiantes pueden construir proyectos profesionales. Será construida con participación de estudiantes, profesionales y personas sin experiencia.
 
@@ -54,3 +54,8 @@ Aspiración del primer año: conciencia ambiental en al menos 10,000 usuarios y 
 ## Mensajes propuestos
 “Tu talento tiene un lugar aquí.” “Da tu siguiente paso con apoyo.” “Cada logro cuenta. Cada acción por el planeta también.”
 
+
+## Ampliación confirmada · 12 de septiembre de 2026
+Los usuarios podrán acceder a cursos y certificaciones. Hongus, como empresa, y las empresas, universidades e instituciones participantes podrán crear convocatorias, proyectos, cursos y certificaciones. La propuesta se amplía hacia oportunidades, formación y desarrollo profesional, conservando el compromiso ambiental.
+
+Fuente de alcance: [[Oportunidades formacion y certificaciones]]. La implementación, los costos, la impartición, los criterios de certificación y la selección de capacidades para el lanzamiento siguen pendientes. Esta decisión no modifica los planes aprobados ni describe funciones ya implementadas.

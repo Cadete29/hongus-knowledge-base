@@ -1,0 +1,128 @@
+{
+  "status": "current",
+  "updatedAt": "2026-09-18",
+  "responsible": "Luis Orozco Rovelo",
+  "address": "Salamanca 248, Col. Praderas de San Juan, Juárez, Nuevo León, México",
+  "contact": "legalidad@hongus.com",
+  "terms": {
+    "version": "2026-09-18",
+    "title": "Términos y condiciones de uso",
+    "intro": "Estas condiciones explican el uso actual de Hongus. Las funciones comerciales futuras tendrán condiciones particulares antes de ofrecerse o cobrarse.",
+    "sections": [
+      {
+        "heading": "1. Responsable y aceptación",
+        "paragraphs": [
+          "Hongus es operado por Luis Orozco Rovelo, con domicilio en Salamanca 248, Col. Praderas de San Juan, Juárez, Nuevo León, México. Para consultas sobre estas condiciones escribe a legalidad@hongus.com.",
+          "Al crear una cuenta declaras que leíste y aceptas estos Términos. El Aviso de Privacidad explica el tratamiento de tus datos y está disponible por separado."
+        ]
+      },
+      {
+        "heading": "2. Servicio disponible",
+        "paragraphs": [
+          "Hongus es una plataforma en desarrollo para explorar oportunidades de aprendizaje, proyectos y crecimiento profesional con enfoque ambiental. Hoy están disponibles la página informativa y las funciones de registro, confirmación de correo, acceso, recuperación de contraseña y seguridad de la cuenta.",
+          "Los planes de pago, convocatorias, candidaturas, cursos, certificaciones, mentorías y otras funciones descritas como próximas no se contratan ni cobran desde la versión actual. Si se habilitan, sus precios, duración, renovación, cancelación y reglas aplicables se mostrarán antes de cualquier contratación."
+        ]
+      },
+      {
+        "heading": "3. Edad, cuenta y seguridad",
+        "paragraphs": [
+          "El registro está dirigido a personas de 18 años o más en México. La fecha de nacimiento declarada permite comprobar este requisito; Hongus podrá solicitar verificaciones adicionales cuando una función futura lo requiera, informándolo previamente.",
+          "Debes proporcionar datos veraces y mantener actualizado tu correo. Eres responsable de cuidar tus credenciales y de avisarnos si sospechas un acceso no autorizado. Puedes cerrar sesiones desde tu espacio y activar verificación en dos pasos."
+        ]
+      },
+      {
+        "heading": "4. Uso permitido",
+        "paragraphs": [
+          "Usa Hongus de manera lícita y respetuosa. No suplantes a otras personas, no intentes acceder a cuentas ajenas, no automatices intentos de acceso, no introduzcas código malicioso y no uses la plataforma para fraude, spam o contenido que vulnere derechos de terceros.",
+          "Elegir un tipo de cuenta no otorga por sí solo facultades para representar a una empresa, institución o mentor. Esos permisos requerirán validación cuando dichas funciones estén disponibles."
+        ]
+      },
+      {
+        "heading": "5. Contenido y propiedad intelectual",
+        "paragraphs": [
+          "La marca, diseño, textos y software de Hongus están protegidos por las normas aplicables. Puedes utilizarlos únicamente para acceder al servicio conforme a estas condiciones. Conservas los derechos sobre el contenido que aportes en funciones futuras; antes de habilitarlas se explicará la licencia necesaria para alojarlo y mostrarlo."
+        ]
+      },
+      {
+        "heading": "6. Disponibilidad y decisiones",
+        "paragraphs": [
+          "Hongus puede realizar mantenimiento y corregir fallas. Avisaremos cambios relevantes por los medios disponibles. La información de la plataforma no garantiza admisión a un curso, contratación laboral, certificación ni resultado profesional. Las decisiones de organizaciones externas corresponden a sus responsables.",
+          "Podemos restringir una cuenta ante indicios razonables de uso indebido, informando la causa y un canal de revisión cuando proceda. No limitamos los derechos irrenunciables que te reconoce la ley mexicana."
+        ]
+      },
+      {
+        "heading": "7. Cierre de cuenta y cambios",
+        "paragraphs": [
+          "Puedes solicitar el cierre de tu cuenta por correo a legalidad@hongus.com. Trataremos los datos asociados conforme al Aviso de Privacidad y a las obligaciones legales aplicables.",
+          "Publicaremos una nueva versión de estas condiciones cuando cambien materialmente. Indicaremos la fecha y comunicaremos los cambios relevantes antes de exigir una nueva aceptación. La versión que aceptaste al registrarte quedará identificada en nuestros registros."
+        ]
+      },
+      {
+        "heading": "8. Ley aplicable y contacto",
+        "paragraphs": [
+          "Estas condiciones se interpretan conforme a las leyes aplicables en México, sin afectar los derechos de las personas consumidoras ni las competencias de las autoridades que correspondan. Para dudas o reclamaciones escribe a legalidad@hongus.com."
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "version": "2026-09-18",
+    "title": "Aviso de Privacidad Integral",
+    "intro": "Este aviso describe los datos que Hongus trata en la versión actual de la plataforma.",
+    "sections": [
+      {
+        "heading": "1. Identidad y domicilio del responsable",
+        "paragraphs": [
+          "Luis Orozco Rovelo, con domicilio en Salamanca 248, Col. Praderas de San Juan, Juárez, Nuevo León, México, es responsable del tratamiento de los datos personales de Hongus. Correo para asuntos de privacidad: legalidad@hongus.com."
+        ]
+      },
+      {
+        "heading": "2. Datos que recabamos",
+        "paragraphs": [
+          "Al registrarte recibimos nombre, correo electrónico, fecha de nacimiento y tipo de cuenta. Guardamos la contraseña únicamente como hash, nunca en texto legible. Registramos la confirmación de correo y la fecha de aceptación de las condiciones y de lectura de este aviso.",
+          "Para proteger la cuenta tratamos identificadores de sesión y de enlaces de un solo uso en forma de hash, dirección IP, información básica del navegador o dispositivo, intentos de acceso y, si activas MFA, el secreto cifrado y hashes de códigos de recuperación. Para correos transaccionales tratamos destinatario, asunto y contenido hasta su envío. No solicitamos datos personales sensibles en el registro actual."
+        ]
+      },
+      {
+        "heading": "3. Finalidades necesarias",
+        "paragraphs": [
+          "Usamos esos datos para crear y administrar tu cuenta, comprobar la edad mínima declarada, confirmar el correo, autenticarte, recuperar el acceso, enviarte mensajes indispensables sobre la cuenta, detectar abuso, mantener la seguridad, atender solicitudes y conservar constancia de la aceptación de documentos.",
+          "No usamos estos datos para publicidad, perfiles comerciales ni decisiones automatizadas sobre empleo. Si en el futuro se habilitan candidaturas, documentos académicos, pagos, mentorías o analítica no indispensable, actualizaremos el aviso y solicitaremos el consentimiento que corresponda antes de recabar datos adicionales."
+        ]
+      },
+      {
+        "heading": "4. Opciones para limitar el uso",
+        "paragraphs": [
+          "Actualmente no enviamos publicidad ni compartimos tu información para mercadotecnia. Puedes escribir a legalidad@hongus.com para consultar o limitar tratamientos no indispensables, si llegaran a existir. Las cookies actuales sostienen la sesión y protegen contra solicitudes no autorizadas; no se usan para publicidad."
+        ]
+      },
+      {
+        "heading": "5. Encargados y comunicaciones",
+        "paragraphs": [
+          "Podemos utilizar proveedores de infraestructura, base de datos y entrega de correo que traten datos por nuestras instrucciones y bajo medidas de confidencialidad. No vendemos datos personales ni los compartimos automáticamente con MICE-LO por ser una organización relacionada. Solo comunicaremos datos a terceros cuando sea necesario para el servicio informado, exista consentimiento aplicable o una obligación legal. Antes de habilitar funciones que compartan perfiles o candidaturas con organizaciones participantes se explicará su alcance y sus controles."
+        ]
+      },
+      {
+        "heading": "6. Conservación y seguridad",
+        "paragraphs": [
+          "Las cuentas se conservan mientras permanezcan activas y durante el tiempo necesario para atender solicitudes u obligaciones legales. Las sesiones vencen a los siete días y sus registros caducados se depuran después de 30 días; los enlaces de confirmación vencen a las 24 horas y los de recuperación a los 30 minutos, y sus registros se depuran después de siete días. Los límites de intentos se depuran después de un día y los desafíos MFA vencidos después de siete días. El sistema ejecuta esta depuración de forma periódica cuando el servidor está en funcionamiento.",
+          "Tras enviar un correo transaccional, el sistema vacía su HTML y texto en la cola y elimina el registro de envío después de 30 días. Los correos pendientes con enlaces vencidos se descartan. Las copias de seguridad pueden conservar datos temporalmente conforme a la política operativa que se defina antes de producción.",
+          "Aplicamos controles de acceso, cifrado o hashing de credenciales y tokens, protección de sesiones y límites de intentos. Ningún sistema elimina por completo el riesgo; si ocurre un incidente que afecte significativamente tus derechos, te informaremos conforme a la ley aplicable."
+        ]
+      },
+      {
+        "heading": "7. Derechos ARCO y revocación",
+        "paragraphs": [
+          "Puedes solicitar acceso, rectificación, cancelación u oposición al tratamiento de tus datos, así como revocar el consentimiento cuando proceda, escribiendo a legalidad@hongus.com. Indica tu nombre, correo de la cuenta, el derecho que deseas ejercer y los datos o circunstancias relacionados. Si actúas por otra persona, incluye la acreditación de representación. Solo pediremos pruebas de identidad cuando sean necesarias y por un medio adecuado.",
+          "Responderemos la determinación dentro de los plazos legales; si la solicitud procede, la haremos efectiva dentro del plazo aplicable. La cancelación puede requerir un periodo de bloqueo cuando existan obligaciones o responsabilidades pendientes."
+        ]
+      },
+      {
+        "heading": "8. Cambios al aviso",
+        "paragraphs": [
+          "Publicaremos la versión vigente en /aviso-de-privacidad con su fecha de actualización. Si hay cambios materiales en finalidades o datos tratados, los comunicaremos por el sitio o por correo antes de aplicarlos cuando la ley así lo requiera. Puedes consultar la versión que aceptaste al registrarte mediante una solicitud al correo de privacidad."
+        ]
+      }
+    ]
+  }
+}

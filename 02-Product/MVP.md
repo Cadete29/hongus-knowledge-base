@@ -16,7 +16,7 @@ Un catálogo enfocado de oportunidades verdes, acompañado de preparación y men
 6. Envía su candidatura y puede conocer su estado.
 7. El equipo registra avances y resultados, distinguiendo lo reportado de lo confirmado.
 
-El ejemplo supone postulación interna para poder dar seguimiento. **Falta decidir** si el piloto usará postulación interna, externa o ambas; cada modalidad necesita estados y métricas distintos.
+El ejemplo supone postulación interna para poder dar seguimiento. Las candidaturas serán exclusivamente internas según [[Definicion de producto y lanzamiento]]. La inscripción a formación requiere un recorrido propio por definir.
 
 ## Alcance candidato
 
@@ -42,3 +42,8 @@ Ver [[Requisitos del producto]], [[Mentoria one to one]] y [[Objetivos]].
 
 ## Público
 Ver [[Talento]] para el público vigente. El alcance técnico de lanzamiento se definirá después de la identidad.
+
+## Ampliación confirmada · 12 de septiembre de 2026
+Los usuarios podrán acceder a cursos y certificaciones. Hongus, como empresa, y las empresas, universidades e instituciones participantes podrán crear convocatorias, proyectos, cursos y certificaciones. La propuesta se amplía hacia oportunidades, formación y desarrollo profesional, conservando el compromiso ambiental.
+
+Fuente de alcance: [[Oportunidades formacion y certificaciones]]. La implementación, los costos, la impartición, los criterios de certificación y la selección de capacidades para el lanzamiento siguen pendientes. Esta decisión no modifica los planes aprobados ni describe funciones ya implementadas.

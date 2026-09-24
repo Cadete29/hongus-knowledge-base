@@ -1,0 +1,93 @@
+.section {
+  padding-block: 96px;
+}
+.white {
+  background: var(--white);
+}
+.mist {
+  background: var(--mist);
+}
+.section h2 {
+  margin: 24px 0;
+  font-size: 48px;
+  line-height: 1.25;
+  font-weight: 700;
+}
+.intro {
+  margin: 0 0 24px;
+  font-size: 20px;
+  line-height: 1.25;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+.card {
+  min-height: 300px;
+  padding: 32px;
+  border-radius: 24px;
+  background: var(--mist);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.whiteCard {
+  background: var(--white);
+}
+.cardTag {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.card h3 {
+  margin: 0;
+  font-size: 28px;
+  line-height: 1.25;
+  font-weight: 700;
+}
+.card > p:last-child {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.25;
+}
+@media (max-width: 1023px) {
+  .section {
+    padding-block: 72px;
+  }
+  .section h2 {
+    font-size: 44px;
+  }
+  .intro {
+    font-size: 18px;
+  }
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .card {
+    min-height: 208px;
+  }
+}
+@media (max-width: 599px) {
+  .section {
+    padding-block: 56px;
+  }
+  .section h2 {
+    font-size: 34px;
+  }
+  .intro {
+    font-size: 16px;
+  }
+  .card {
+    min-height: 0;
+    padding: 24px;
+  }
+  .card h3 {
+    font-size: 24px;
+  }
+  .card > p:last-child {
+    font-size: 16px;
+  }
+}

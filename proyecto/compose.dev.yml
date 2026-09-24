@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: hongus
+      POSTGRES_USER: hongus
+      POSTGRES_PASSWORD: hongus
+    ports:
+      - '127.0.0.1:5433:5432'
+    volumes:
+      - hongus_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U hongus -d hongus']
+      interval: 5s
+      retries: 10
+volumes:
+  hongus_pg:

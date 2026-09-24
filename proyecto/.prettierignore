@@ -1,0 +1,13 @@
+**/node_modules/**
+**/dist/**
+**/.pnpm-store/**
+**/.env
+**/*.lock
+**/pnpm-lock.yaml
+**/package-lock.json
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.webp
+**/*.ico

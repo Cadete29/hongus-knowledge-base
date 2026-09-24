@@ -1,24 +1,34 @@
 # Backlog
+## Confirmado
+- [x] Identidad estratégica y visual.
+- [x] Público, planes y beneficios.
+- [x] Candidaturas internas, revisión manual y videollamada externa.
+- [x] Ventana de producción y apertura nacional.
 
-Estado inicial: descubrimiento. El orden expresa dependencias; no representa fechas comprometidas.
+## Siguiente fase
+- [x] Documentar propuesta del primer recorrido en [[Registro validacion y activacion]].
+- [ ] Revisar reglas pendientes y validar [[Pantallas de registro y activacion]].
+- [x] Crear el proyecto de autenticación y el backlog inicial en [[Sistema de tickets en Linear]].
+- [ ] Asignar responsables e iniciar los tickets HON-5 a HON-11.
+- [ ] Validar [[Definicion de producto y lanzamiento]].
+- [ ] Resolver [[Reglas operativas propuestas]].
+- [x] Confirmar que los dos líderes son personas distintas de Luis y Alan y supervisarán el desarrollo.
+- [ ] Asignar responsables y reclutar en [[Equipo y ejecucion]].
+- [x] Implementar la base técnica de landing, autenticación, PostgreSQL, correo configurable y suscripciones simuladas.
+- [ ] Completar HON-6 a HON-11 antes de considerar el flujo listo para producción.
+- [ ] Seleccionar proveedores de pagos y correo de producción con costos verificados.
+- [ ] Conseguir oportunidades y mentores.
 
-- [x] B01 — Capturar la dirección del fundador y el documento original en [[Brief fundador]] y [[Propuesta original y evolucion]].
-- [ ] B02 — Con los cuatro segmentos confirmados en [[Talento]], elegir región, familias de oportunidades y situación del piloto.
-- [ ] B03 — Documentar evidencia y alternativas actuales en [[Plan de validacion]].
-- [ ] B04 — Acordar posicionamiento, personalidad y voz en [[Identidad de Hongus]].
-- [ ] B05 — Elegir un recorrido y exclusiones en [[MVP]].
-- [ ] B06 — Especificar ese recorrido usando [[Plantilla de funcionalidad]].
-- [ ] B07 — Dibujar sus pantallas y estados con [[Experiencia y sistema visual]].
-- [ ] B08 — Derivar entidades, permisos y límites en [[Modelo de dominio]] y [[Seguridad y confianza]].
-- [ ] B09 — Comparar alternativas técnicas y registrar decisiones en [[Decisiones]].
-- [ ] B10 — Definir operación, presupuesto y recuperación en [[Operacion y entornos]].
-- [ ] B11 — Revisar [[Preparacion para codigo]] y convertir el recorrido en tareas implementables.
+Fechas en [[Roadmap]]. El trabajo ejecutable se administra en Linear; ver [[Sistema de tickets en Linear]].
 
-Cada tarea completada debe enlazar su resultado. Las nuevas ideas pasan primero por el filtro de [[MVP]].
+## Arquitectura
+- [x] Crear [[Arquitectura de Hongus]] v1 con modelo, permisos, contratos y operación.
+- [ ] Revisar [[Decisiones tecnicas y evolucion]] con los líderes y aceptar o ajustar.
+- [ ] Resolver políticas pendientes y presupuesto antes de activar producción.
 
-## Decisiones siguientes
-
-- [ ] B12 — Definir criterios verificables de empleabilidad verde.
-- [ ] B13 — Elegir postulación interna o externa y qué resultado podemos confirmar.
-- [ ] B14 — Definir incorporación, duración, capacidad y condiciones de mentoría.
-- [ ] B15 — Validar hipótesis comerciales y moneda; revisar costes de los planes del Word.
+## Formación y certificaciones · 12 de septiembre de 2026
+- [ ] Ajustar alcance de lanzamiento y estimaciones a [[Oportunidades formacion y certificaciones]].
+- [ ] Diseñar catálogo por tipo y publicación de Hongus y organizaciones.
+- [ ] Definir inscripción, impartición, evaluación y emisión con responsables.
+- [ ] Acordar costos y relación con planes antes de anunciar beneficios.
+- [ ] Actualizar presentación institucional y pantallas con la identidad ampliada.

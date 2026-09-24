@@ -13,5 +13,6 @@ Thumbs.db
 # Secrets
 .env
 .env.*
+!.env.example
 *.key
 *.pem

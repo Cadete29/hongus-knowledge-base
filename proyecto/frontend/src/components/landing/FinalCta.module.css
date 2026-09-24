@@ -1,0 +1,46 @@
+.cta {
+  background: var(--lime);
+  padding-block: 96px;
+  text-align: center;
+}
+.eyebrow {
+  color: var(--ink);
+}
+.inner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 24px;
+}
+.cta h2 {
+  margin: 0;
+  font-size: 56px;
+  line-height: 1.25;
+}
+.cta p:not(.eyebrow) {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1.25;
+}
+@media (max-width: 1023px) {
+  .cta {
+    padding-block: 72px;
+  }
+  .cta h2 {
+    font-size: 44px;
+  }
+  .cta p:not(.eyebrow) {
+    font-size: 18px;
+  }
+}
+@media (max-width: 599px) {
+  .cta {
+    padding-block: 56px;
+  }
+  .cta h2 {
+    font-size: 34px;
+  }
+  .cta p:not(.eyebrow) {
+    font-size: 16px;
+  }
+}

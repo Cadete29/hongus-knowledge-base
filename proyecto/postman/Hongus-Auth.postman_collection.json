@@ -1,0 +1,189 @@
+{
+  "info": {
+    "name": "Hongus · Autenticación",
+    "description": "Pruebas locales de la API de autenticación. Postman conserva automáticamente las cookies de localhost. Ejecuta primero Iniciar sesión para obtener la cookie CSRF usada por las operaciones protegidas.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3000/api/v1" },
+    { "key": "origin", "value": "http://localhost:5173" },
+    { "key": "email", "value": "tu-correo@gmail.com" },
+    { "key": "password", "value": "UnaContrasenaSegura123!" },
+    { "key": "confirmationToken", "value": "" },
+    { "key": "resetToken", "value": "" },
+    { "key": "mfaToken", "value": "" },
+    { "key": "csrfToken", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "Información de la API",
+      "request": { "method": "GET", "url": "http://localhost:3000/" }
+    },
+    {
+      "name": "Salud y base de datos",
+      "request": { "method": "GET", "url": "{{baseUrl}}/health" },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test('API y PostgreSQL disponibles', () => pm.response.to.have.status(200));"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Registro",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Usuario de prueba\",\n  \"email\": \"{{email}}\",\n  \"password\": \"{{password}}\",\n  \"birthDate\": \"2000-01-01\",\n  \"accountType\": \"student\",\n  \"consentAccepted\": true\n}"
+        },
+        "url": "{{baseUrl}}/accounts"
+      }
+    },
+    {
+      "name": "Confirmar correo",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": { "mode": "raw", "raw": "{ \"token\": \"{{confirmationToken}}\" }" },
+        "url": "{{baseUrl}}/email-confirmations"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "const csrf = pm.cookies.get('hongus_csrf') || pm.cookies.get('__Host-hongus_csrf');",
+              "if (csrf) pm.collectionVariables.set('csrfToken', csrf);"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reenviar confirmación",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": { "mode": "raw", "raw": "{ \"email\": \"{{email}}\" }" },
+        "url": "{{baseUrl}}/email-confirmations/resend"
+      }
+    },
+    {
+      "name": "Iniciar sesión",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"email\": \"{{email}}\", \"password\": \"{{password}}\" }"
+        },
+        "url": "{{baseUrl}}/sessions"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "const body = pm.response.json();",
+              "if (body.mfaToken) pm.collectionVariables.set('mfaToken', body.mfaToken);",
+              "const csrf = pm.cookies.get('hongus_csrf') || pm.cookies.get('__Host-hongus_csrf');",
+              "if (csrf) pm.collectionVariables.set('csrfToken', csrf);"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Consultar sesión actual",
+      "request": { "method": "GET", "url": "{{baseUrl}}/sessions/current" }
+    },
+    {
+      "name": "Solicitar recuperación",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": { "mode": "raw", "raw": "{ \"email\": \"{{email}}\" }" },
+        "url": "{{baseUrl}}/password-resets"
+      }
+    },
+    {
+      "name": "Completar recuperación",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"token\": \"{{resetToken}}\", \"password\": \"OtraContrasenaSegura123!\" }"
+        },
+        "url": "{{baseUrl}}/password-resets/complete"
+      }
+    },
+    {
+      "name": "Listar sesiones",
+      "request": { "method": "GET", "url": "{{baseUrl}}/sessions" }
+    },
+    {
+      "name": "Estado MFA",
+      "request": { "method": "GET", "url": "{{baseUrl}}/mfa/status" }
+    },
+    {
+      "name": "Rotar sesión",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "X-CSRF-Token", "value": "{{csrfToken}}" }
+        ],
+        "body": { "mode": "raw", "raw": "{}" },
+        "url": "{{baseUrl}}/sessions/refresh"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "const csrf = pm.cookies.get('hongus_csrf') || pm.cookies.get('__Host-hongus_csrf');",
+              "if (csrf) pm.collectionVariables.set('csrfToken', csrf);"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cerrar sesión",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          { "key": "Origin", "value": "{{origin}}" },
+          { "key": "X-CSRF-Token", "value": "{{csrfToken}}" }
+        ],
+        "url": "{{baseUrl}}/sessions/current"
+      }
+    }
+  ]
+}

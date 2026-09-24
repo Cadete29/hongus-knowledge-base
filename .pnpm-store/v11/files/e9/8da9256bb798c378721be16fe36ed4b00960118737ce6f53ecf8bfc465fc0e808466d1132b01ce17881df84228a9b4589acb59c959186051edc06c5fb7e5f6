@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src\blake2">
+      <UniqueIdentifier>{1858849C-E1E3-C570-5699-B682A7EB6F2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2">
+      <UniqueIdentifier>{6766C871-5928-E496-30F7-2C05C7A06B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\argon2\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{F87FD356-0FEB-9BC5-D1FA-368C81420008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users">
+      <UniqueIdentifier>{707347A1-1ABA-A9B2-9AF4-DE122F5D7F08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_">
+      <UniqueIdentifier>{9C13E5FA-00FD-DDA6-A6BB-6B01A6EB7A94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache">
+      <UniqueIdentifier>{F7093543-3B89-9A3E-87FB-7D17223F3718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes">
+      <UniqueIdentifier>{0E370C51-17F2-0ACF-A9C9-C53D5E71B89B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime">
+      <UniqueIdentifier>{AC1AB891-C013-2E2C-BFAA-F53A90563230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies">
+      <UniqueIdentifier>{A91062CF-5E7C-ABCC-DCBD-1811BA48DB29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node">
+      <UniqueIdentifier>{CC1ED9C8-5892-2D93-F312-E484ABBA8F9B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules">
+      <UniqueIdentifier>{126A39EA-1D28-5689-C126-0DA0AB5837A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm">
+      <UniqueIdentifier>{6495C183-2C26-C6EA-AEC3-F82F56EC60EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist">
+      <UniqueIdentifier>{E63026B0-612C-CDD4-0119-D8A7D5C7EB09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist\node_modules">
+      <UniqueIdentifier>{126A39EA-1D28-5689-C126-0DA0AB5837A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist\node_modules\node-gyp">
+      <UniqueIdentifier>{49558BB4-6D34-CA91-A65D-85A65792DC11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist\node_modules\node-gyp\src">
+      <UniqueIdentifier>{F1003AD6-4B6D-45DF-3F56-5CAC869BF55E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{13ED4249-1F9C-5F0F-2651-29A73F3A7059}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\argon2\src\opt.c">
+      <Filter>..\argon2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\argon2\src\argon2.c">
+      <Filter>..\argon2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\argon2\src\blake2\blake2b.c">
+      <Filter>..\argon2\src\blake2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\argon2\src\core.c">
+      <Filter>..\argon2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\argon2\src\encoding.c">
+      <Filter>..\argon2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\argon2\src\thread.c">
+      <Filter>..\argon2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Users\cory_\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\node_modules\pnpm\dist\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>

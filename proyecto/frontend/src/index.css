@@ -1,0 +1,35 @@
+:root {
+  --forest: #145c43;
+  --ink: #102a22;
+  --lime: #d5f67a;
+  --mist: #f5f8f2;
+  --white: #fff;
+  font-family: Arimo, Arial, Helvetica, sans-serif;
+  color: var(--ink);
+  background: var(--mist);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+}
+a {
+  color: inherit;
+}
+:focus-visible {
+  outline: 3px solid var(--forest);
+  outline-offset: 4px;
+}
